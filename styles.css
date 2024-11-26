@@ -1,0 +1,26 @@
+body {
+  box-sizing: border-box;
+  
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  
+  margin-top: 25%;
+
+}
+
+button {
+  height: 2em;
+  font-size: 36px;
+  justify-content: center;
+  text-align: center;
+  font-family: Helvetica;
+  border-radius: 10px;
+  background-color: lightblue;
+}
+
+button:hover {
+  background-color: lightcyan;
+}
